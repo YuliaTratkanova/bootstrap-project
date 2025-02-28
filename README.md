@@ -1,2 +1,1 @@
-# bootstrap-project
-website with use bootstrap
+# Тренировка с Bootstrap простенький сайт
